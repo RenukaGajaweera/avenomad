@@ -1,0 +1,15 @@
+{
+  "name": "avenomad",
+  "version": "1.0.0",
+  "description": "This is a github repo to learn CI/CD pipeline with Git, Docker and AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
